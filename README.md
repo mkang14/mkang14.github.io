@@ -2,9 +2,9 @@
 
 I will use this space to practice coding and blog random thoughts.  
 
-###[MY BLOG](/blog)
+[MY BLOG](/blog)
 
-###[OTHER THINGS](/markdown-portfolio)
+[OTHER THINGS](/markdown-portfolio)
 
 
 ### Support or Contact
