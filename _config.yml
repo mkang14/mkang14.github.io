@@ -30,6 +30,7 @@ github_username:  mkang14
 # Build settings
 theme: minima
 plugins:
+  - jekyll-feed
 
 # Permalink settings
 permalink: /:year/:month/:day/:title/
