@@ -39,7 +39,7 @@ make: *** [binder.o] Error 1
 make failed, exit code 2
 ```
 
-After trying a few things, including reinstalling openssl, what worked for me was adding some lines to my bash profile (I used [Atom][atom].  
+After trying a few things, including reinstalling openssl, what worked for me was adding some lines to my bash profile (I used [Atom][atom]).  
 * <code> atom ~/.base_profile </code>  
 I added this at the bottom of the profile and saved.  
 ```shell
