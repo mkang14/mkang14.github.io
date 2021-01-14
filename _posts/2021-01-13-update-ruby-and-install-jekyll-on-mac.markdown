@@ -5,7 +5,7 @@ date:   2021-01-13 18:33:45 -0500
 categories: jekyll update
 ---
 I wanted to learn the syntax of a language other than [Python][python]. I came across [Ruby][ruby] while using [GitHub][github],
-so decided to take a basic class on Ruby. As a first step, I checked my current version by opening terminal and running 'ruby -v'.
+so decided to take a basic class on Ruby. As a first step, I checked my current version by opening terminal and running <code> ruby -v </code>.
 I have a 2019 Macbook Air and it had 2.6.3.  
 
 I found the following steps on GitHub and ran each step on the terminal to update to version 3.0.0 (released 2020-12-25).  
@@ -51,7 +51,7 @@ export LD_LIBRARY_PATH CPATH PKG_CONFIG_PATH
 * <code> source ~/.bash_profile </code>  
 * <code> gem install jekyll </code>  
 * <code> jekyll -v </code> to check if it was properly installed now.  
-And now finally installed!!! :+1:
+And now finally installed! :+1:
 
 [python]:https://www.python.org/
 [ruby]: https://www.ruby-lang.org/en/
